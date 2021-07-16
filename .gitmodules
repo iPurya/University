@@ -1,3 +1,6 @@
 [submodule "term2(Python)/p29"]
 	path = term2(Python)/p29
 	url = https://github.com/iPurya/botclient
+[submodule "term2(Python)/p6"]
+	path = term2(Python)/p6
+	url = https://github.com/iPurya/PyCalc
